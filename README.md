@@ -10,7 +10,8 @@
 
 This is exploratory data analysis of the Motivate dataset submited as
 a project for the R course in Udacity's _Introduction to Programing 
-for Data Science_ 
+for Data Science_ [syllabus here](https://www.udacity.com/course/
+programming-for-data-science-nanodegree-with-R--nd118)
 
 ## Programmes used
 
